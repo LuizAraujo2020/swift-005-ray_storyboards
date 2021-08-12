@@ -16,6 +16,7 @@
 		6FBC854026C5996000D36D8E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6FBC853E26C5996000D36D8E /* LaunchScreen.storyboard */; };
 		6FBC854B26C5996100D36D8E /* swift_005_ray_storyboardsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FBC854A26C5996100D36D8E /* swift_005_ray_storyboardsTests.swift */; };
 		6FBC855526C5996100D36D8E /* swift_005_ray_storyboardsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FBC855426C5996100D36D8E /* swift_005_ray_storyboardsUITests.swift */; };
+		6FBC856226C5A7A500D36D8E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 6FBC856126C5999000D36D8E /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6FBC854A26C5996100D36D8E /* swift_005_ray_storyboardsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_005_ray_storyboardsTests.swift; sourceTree = "<group>"; };
 		6FBC855026C5996100D36D8E /* swift-005-ray_storyboardsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "swift-005-ray_storyboardsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FBC855426C5996100D36D8E /* swift_005_ray_storyboardsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swift_005_ray_storyboardsUITests.swift; sourceTree = "<group>"; };
+		6FBC856126C5999000D36D8E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		6FBC852426C5995E00D36D8E = {
 			isa = PBXGroup;
 			children = (
+				6FBC856126C5999000D36D8E /* README.md */,
 				6FBC852F26C5995E00D36D8E /* swift-005-ray_storyboards */,
 				6FBC854926C5996100D36D8E /* swift-005-ray_storyboardsTests */,
 				6FBC855326C5996100D36D8E /* swift-005-ray_storyboardsUITests */,
@@ -233,6 +236,7 @@
 			files = (
 				6FBC854026C5996000D36D8E /* LaunchScreen.storyboard in Resources */,
 				6FBC853D26C5996000D36D8E /* Assets.xcassets in Resources */,
+				6FBC856226C5A7A500D36D8E /* README.md in Resources */,
 				6FBC853826C5995F00D36D8E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
